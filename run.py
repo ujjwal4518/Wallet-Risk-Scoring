@@ -1,5 +1,3 @@
-# run.py
-
 import os
 import pandas as pd
 from src.fetch_data import fetch_wallet_data
