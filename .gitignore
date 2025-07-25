@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Output directory (risk scores, logs)
+output/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Temporary or backup files
+*.bak
+*.tmp
+*.swp
+
+# Keep all data files
+# (nothing in /data will be ignored)
